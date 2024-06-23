@@ -1,0 +1,25 @@
+2024/06/22-22:32:29.572 252c Reusing MANIFEST C:\Users\Lucas\ESTUDOS\wppconnect\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/22-22:32:29.572 252c Recovering log #310
+2024/06/22-22:32:29.579 252c Reusing old log C:\Users\Lucas\ESTUDOS\wppconnect\tokens\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000310.log 
+2024/06/22-22:32:29.580 252c Delete type=2 #309
+2024/06/22-22:32:30.645 510 Level-0 table #315: started
+2024/06/22-22:32:30.651 510 Level-0 table #315: 123967 bytes OK
+2024/06/22-22:32:30.653 510 Delete type=0 #310
+2024/06/22-22:32:30.654 252c Manual compaction at level-0 from '\x00m\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00n\x00\x00\x00' @ 0 : 0; will stop at '\x00n\x00\x00\x05' @ 334435 : 1
+2024/06/22-22:32:30.654 252c Compacting 1@0 + 1@1 files
+2024/06/22-22:32:30.707 252c Generated table #316@0: 43176 keys, 777220 bytes
+2024/06/22-22:32:30.707 252c Compacted 1@0 + 1@1 files => 777220 bytes
+2024/06/22-22:32:30.708 252c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/22-22:32:30.709 252c Delete type=2 #315
+2024/06/22-22:32:30.709 252c Manual compaction at level-0 from '\x00n\x00\x00\x05' @ 334435 : 1 .. '\x00n\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/06/22-22:32:30.710 252c Level-0 table #318: started
+2024/06/22-22:32:30.712 252c Level-0 table #318: 251 bytes OK
+2024/06/22-22:32:30.714 252c Delete type=2 #312
+2024/06/22-22:32:30.714 252c Delete type=0 #314
+2024/06/22-22:32:30.714 252c Manual compaction at level-0 from '\x00n\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00o\x00\x00\x00' @ 0 : 0; will stop at '\x00n\x00\x00\x05' @ 334468 : 0
+2024/06/22-22:32:30.714 252c Compacting 1@0 + 1@1 files
+2024/06/22-22:32:30.754 252c Generated table #319@0: 43174 keys, 777232 bytes
+2024/06/22-22:32:30.755 252c Compacted 1@0 + 1@1 files => 777232 bytes
+2024/06/22-22:32:30.755 252c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/22-22:32:30.756 252c Delete type=2 #318
+2024/06/22-22:32:30.756 252c Manual compaction at level-0 from '\x00n\x00\x00\x05' @ 334468 : 0 .. '\x00o\x00\x00\x00' @ 0 : 0; will stop at (end)
